@@ -9,9 +9,8 @@ The ratio of the areas of the circle and square, is $\frac{\pi}{4}$
 
 So that,
 
-$\begin{aligned}
+$$
 \pi = \frac{4 \times \text{circle count}}{ \text{total count} }
-\end{aligned}
-$
+$$
 
 ![Estimation of pi plot](circle_plot.gif)
